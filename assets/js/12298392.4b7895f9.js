@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqb_docs=self.webpackChunkqb_docs||[]).push([[982],{9575:function(e){e.exports=JSON.parse('{"permalink":"/qb-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

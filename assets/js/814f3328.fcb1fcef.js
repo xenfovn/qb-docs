@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqb_docs=self.webpackChunkqb_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/qb-docs/blog/welcome"}]}')}}]);

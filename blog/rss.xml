@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>QBCore Framework Blog</title>
+        <link>https://qbcore-framework.github.io/qb-docs/blog</link>
+        <description>QBCore Framework Blog</description>
+        <lastBuildDate>Tue, 12 Oct 2021 07:05:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://qbcore-framework.github.io/qb-docs/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Tue, 12 Oct 2021 07:05:53 GMT</pubDate>
+            <description><![CDATA[Thanks for checking out the QBCore documentation! I'm hoping to keep it as maintained as possible and possibly make occassional tutorial posts here in the blog section to better explain some of the functions and events!]]></description>
+        </item>
+    </channel>
+</rss>
