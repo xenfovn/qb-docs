@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qbcore-framework.github.io/qb-docs/blog</id>
     <title>QBCore Framework Blog</title>
-    <updated>2021-10-12T07:05:53.905Z</updated>
+    <updated>2021-11-15T19:43:07.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qbcore-framework.github.io/qb-docs/blog"/>
     <subtitle>QBCore Framework Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://qbcore-framework.github.io/qb-docs/blog/welcome"/>
-        <updated>2021-10-12T07:05:53.905Z</updated>
+        <updated>2021-11-15T19:43:07.818Z</updated>
         <summary type="html"><![CDATA[Thanks for checking out the QBCore documentation! I'm hoping to keep it as maintained as possible and possibly make occassional tutorial posts here in the blog section to better explain some of the functions and events!]]></summary>
         <author>
             <name>Kakarot - Josh</name>
