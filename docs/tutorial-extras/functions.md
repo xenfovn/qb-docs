@@ -150,6 +150,37 @@ function QBCore.Functions.UseItem(source, item)
 end
 ```
 
+### QBCore.Functions.GetItemByName
+Returns the data of an item specified in the function
+Example Output: 
+```lua
+{
+"image": "water.png",
+"unique": false,
+"slot": 1,
+"info": [],
+"amount": 99,
+"name": "water",
+"description": "It's water",
+"label": "Water",
+"type": "item",
+"weight": 0,
+"shouldClose": true,
+"useable": false
+}
+```
+Example Usage:
+```lua
+local src = source 
+local Player = QBCore.Functions.GetPlayer(src)
+
+if Player.Functions.GetItemByName('water').amount >= 5 then 
+	print("You have more then 5 waters")
+else
+	print("You don't have more then 5 waters")
+end
+```
+
 ### QBCore.Functions.Kick
 Kick a player from the server
 ```lua
