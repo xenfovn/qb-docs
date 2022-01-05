@@ -14,8 +14,8 @@ RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
     NetworkSetFriendlyFireOption(true)
 end)
 ```
-### QBCore:Client:OnPlayerLoaded
-Handles the player loggin out to character selection
+### QBCore:Client:OnPlayerUnload
+Handles the player logging out to character selection
 ```lua
 RegisterNetEvent('QBCore:Client:OnPlayerUnload', function()
     LocalPlayer.state:set('isLoggedIn', false, false)
