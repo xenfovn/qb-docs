@@ -173,7 +173,8 @@ Example Usage:
 ```lua
 local src = source 
 local Player = QBCore.Functions.GetPlayer(src)
-if not Player.Functions.GetItemByName('water') then return end
+local item = Player.Functions.GetItemByName('water')
+if not item then return end
 
 if Player.Functions.GetItemByName('water').amount >= 5 then 
 	print("You have more then 5 waters")
