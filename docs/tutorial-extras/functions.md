@@ -176,7 +176,7 @@ local Player = QBCore.Functions.GetPlayer(src)
 local item = Player.Functions.GetItemByName('water')
 if not item then return end
 
-if Player.Functions.GetItemByName('water').amount >= 5 then 
+if item.amount >= 5 then 
 	print("You have more then 5 waters")
 else
 	print("You don't have more then 5 waters")
